@@ -1,0 +1,3 @@
+
+swiftc -o result *.swift
+
