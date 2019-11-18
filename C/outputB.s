@@ -26,7 +26,7 @@ _main:                                  ## @main
                                         ## -- End function
 	.section	__TEXT,__cstring,cstring_literals
 L_.str:                                 ## @.str
-	.asciz	"Hello, world"
+	.asciz	"Hello, Hey Hey~"
 
 
 .subsections_via_symbols
